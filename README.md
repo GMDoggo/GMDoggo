@@ -37,4 +37,7 @@ As I continue to grow my career, my primary objective is to continuously develop
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PJPT-0000FF?&style=for-the-badge&logo=TCM-Security&logoColor=white" />
+
+
 </div>
