@@ -36,14 +36,17 @@ As I continue to grow my career, my primary objective is to continuously develop
 
 ## Certifications
 <div>
+<a href="https://certified.tcm-sec.com/2cd23d73-c02c-4196-9240-81246982d0fc#acc.DoKvVktH">
+    <img src="https://img.shields.io/badge/-PNPT-blue?&style=for-the-badge" />
+<a href="https://certified.tcm-sec.com/93e60a73-3a83-4826-af9f-6846623436de#acc.o0OlgfX2">
+  <img src="https://img.shields.io/badge/-PJPT-green?&style=for-the-badge" />
+<a href="https://www.credly.com/badges/e672a543-4536-4516-983a-e12036b57b49/linked_in_profile">
+  <img src="https://img.shields.io/badge/-Security%2B-red?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 
 
 
 
-    
-<img src="https://github.com/user-attachments/assets/f14bb4e7-2294-4abe-a319-c030bf73cbc8" alt="Image 1" width="300" />
-<img src="https://github.com/user-attachments/assets/206d4907-cb1d-4ae3-a073-104da1b2a6bd" alt="Image 2" width="300" />
-<img src="https://github.com/user-attachments/assets/e7df0b61-6eb3-48b3-87f9-c5305855f2c5" alt="Image 3" width="300" />
 
 
 
